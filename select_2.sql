@@ -4,7 +4,7 @@ select * from products;
 
 # Alias in column
 select 
-	id, name as model, 	
+	id, name as model, 
     price as "original price", 
     qty as quantity,
     created_at as date

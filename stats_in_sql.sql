@@ -50,6 +50,6 @@ select salary/10000 from employees;
 select ceil(salary/10000) from employees;
 
 select 
- ceil(salary/10000), 
- floor(salary/10000) 
+ floor(salary/10000), 
+ ceil(salary/10000) 
 from employees;
