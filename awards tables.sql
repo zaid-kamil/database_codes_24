@@ -15,8 +15,6 @@ values (2, 'jun 24'),
 	   (15, "jul 24"),
        (42, "aug 24");
        
-
-
 insert into awards(empid, month)
 values (6, "jan 24"),
        (18, "feb 24"),

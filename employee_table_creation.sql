@@ -62,3 +62,8 @@ INSERT INTO employees (id, name, age, department_id, salary) VALUES
 (49, 'Eleanor Hughes', 35, 3, 83000.00),
 (50, 'Sebastian Price', 42, 4, 86000.00);
 
+INSERT INTO employees (id, name, age, department_id, salary) VALUES
+(51, 'Raju Doe', 28, null, 55000.00),
+(52, 'Rani Smith', 34, null, 60000.00),
+(53, 'Rahul Johnson', 40, null, 72000.00);
+
