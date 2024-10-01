@@ -35,4 +35,4 @@ select * from
 department right join employees
 on department.id = employees.department_id;
 
-
+	
