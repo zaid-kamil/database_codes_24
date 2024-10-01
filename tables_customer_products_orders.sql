@@ -1,3 +1,4 @@
+-- database: :memory:
 use db_sep_24_5_30;
 
 -- drop tables
